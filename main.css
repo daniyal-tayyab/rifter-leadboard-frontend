@@ -22,6 +22,7 @@ body {
   color: #fff;
   box-sizing: border-box;
   font-size: 1.6rem;
+  overflow-x: hidden;
 }
 
 a {
@@ -106,6 +107,7 @@ li:hover {
   display: flex;
   flex-direction: column;
   align-items: center;
+  overflow-x: hidden;
 }
 
 .background-image {
